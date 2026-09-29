@@ -1,0 +1,9 @@
+{
+    "id": "clean-tags-plugin",
+    "name": "Clean Tags Manager",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "精细化拆分和美化双模式下的标签井号与文字",
+    "author": "Custom",
+    "isDesktopOnly": false
+}
